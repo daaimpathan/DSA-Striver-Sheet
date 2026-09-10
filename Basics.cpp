@@ -1,9 +1,7 @@
 // Hello World Program:
-#include <iostream>
-#include <cstdio>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-    printf("Hello World!");
-    return 0;
+    cout<<"Hello World";
 }
